@@ -27,6 +27,9 @@
 [王O(610407)](https://github.com/zinwang)
 [簡O毅(610604)](https://github.com/610604)
 [甘O霖(610489)](https://github.com/610489)
+
+[潘0祥(610637)](https://github.com/610637)
+
 [王O智(610609)](https://github.com/Amos0506/sCTF-2016-Q1-banana-boy-20-)
 
 [(劉.辰(610354))](http://github.com/ericliu515515)
@@ -44,29 +47,29 @@
 
 [李X洋(610251)](https://github.com/seer2seer2)
 
-[()]()
+[吳x智(610206)](https://github.com/wutizhi)
 
 
-[()]()
+[張X(610219)](https://github.com/daniel-chang1260)
 
 
-[()]()
+[陳x禎(610223)](https://github.com/c-b-z)
 
-[()]()
-
-
+[陳X兆(610108)](https://github.com/Camelcat)
 
 
 
-[()]()
 
-[()]()
 
+[楊X程(610117)](https://github.com/610117)
 
 [()]()
 
 
 [()]()
+
+
+[()](https://github.com/610117)
 
 [()]()
 
