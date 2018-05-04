@@ -6,7 +6,7 @@
 
 
 
-[郭x淳(610512)](https://github.com/orangeistoxic/the-paradise-of-python/)
+[郭x淳(610512)](https://github.com/orangeistoxic/)
 
 
 [()]()
