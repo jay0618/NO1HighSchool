@@ -26,9 +26,10 @@ http://120.114.62.89
 [2]D:\python2\python.exe XXX.py
 或 D:\python3\python.exe XXX.py
 -------------------------------------------------------
-=========================================
-Python開發環境@Ubuntu 16.04 LTS 64-bit
+```
 
+# Python開發環境@Ubuntu 16.04 LTS 64-bit
+```
 [1]使用python interactive shell
 開啟terminal,輸入下列指令
 python==>進入python 2.7shell
