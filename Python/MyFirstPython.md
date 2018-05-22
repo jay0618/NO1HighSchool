@@ -39,7 +39,6 @@ python3==>進入python 3.6.X shell
 [2]使用gedit(或nano或vim)寫程式==>記得檔名要XXX.py
 python xxx.py
 python3 xxx.py
-
 ```
 
 # Python程式設計{基礎課程}
