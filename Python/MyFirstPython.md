@@ -98,7 +98,7 @@ print("The average of", number1, number2, number3,
 >>> print(str(q) + " " + str(p) + " " + str(p * q))
 ```
 
-#####[1.3]格式化輸出Formatted Output
+##### [1.3]格式化輸出Formatted Output
 
 [Further reading延伸閱讀]https://www.python-course.eu/python3_formatted_output.php
 ```
